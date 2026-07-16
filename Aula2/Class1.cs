@@ -4,7 +4,7 @@ namespace Aula2
 {
     class Program
     {
-        static void Main()
+        static void Main3()
         {
             Console.Write("Digite o primeiro número: ");
             int numero1 = int.Parse(Console.ReadLine());
