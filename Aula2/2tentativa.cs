@@ -6,7 +6,7 @@ namespace ConsoleApp1.Aula2
 {
     internal class _2tentativa
     {
-        static void Main()
+        static void Main4()
         {
             Console.Title = "Calculadora em C#";
 
