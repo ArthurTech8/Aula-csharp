@@ -2,7 +2,7 @@
 
 class ConversordeTemperatura
 {
-    static void Main()
+    static void Main6()
     {
         Console.Write("Digite a temperatura em Celsius: ");
         double celsius = Convert.ToDouble(Console.ReadLine());
